@@ -1,2 +1,2 @@
-# go-examples
-Go examples
+# idiomatic-go
+Idiomatic Go examples
